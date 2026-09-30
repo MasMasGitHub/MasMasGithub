@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mas 👋
 
-<!--
-**MasMasGitHub/MasMasGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning **web application penetration testing** and getting started
+with **bug bounty hunting**.
 
-Here are some ideas to get you started:
+## 🎯 What I'm working on
+- Building a Python-based recon tool (in progress)
+- Practicing on TryHackMe, PortSwigger Web Security Academy, and OWASP Juice Shop
+- Writing up labs and what I learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning
+- OWASP Top 10 (XSS, SQLi, IDOR, SSRF, etc.)
+- Burp Suite
+- Python for security scripting
+
+## 🔗 Find me
+
+> All testing is done only on systems I own or have explicit permission to test.
